@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386908666811",
+    "project_id": "wingedwordsadmin",
+    "storage_bucket": "wingedwordsadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386908666811:android:fe010b4a17b053c0c1229e",
+        "android_client_info": {
+          "package_name": "com.example.wingedwords"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0UsZoJKJxhKivV5mOMlVUpQo2yb9Y58c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
