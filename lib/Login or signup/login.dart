@@ -268,6 +268,8 @@ class _Login_PageState extends State<Login_Page> {
                     if(otpverified){
                       await _auth.signInWithEmailAndPassword(email: _emailController.text,
                           password: _passwordController.text);
+                      // UserCredential usercredentials=await _auth.signInWithEmailAndPassword(email: _emailController.text,
+                      //     password: _passwordController.text);
                       Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => BottomNavBarExample()));
                     }
                   }else{
